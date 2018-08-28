@@ -1,7 +1,7 @@
 # kubeguestbook
 Kube guestbook on OpenShift
 
-#### Deploy Reddis and wait for the pod status to become ready (1/1)
+#### Deploy Redis and wait for the pod status to become ready (1/1)
 
 ```
 oc new-app docker.io/kubeguide/redis-master
